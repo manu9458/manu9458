@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manu9458
+- 👋 Hi, I’m MANU PRATAP SINGH
 - 👀 I’m interested in programmig and cyber security
 - 🌱 I’m currently learning BlockChain
 - 💞️ I’m looking to collaborate on Full stack development
