@@ -1,10 +1,66 @@
-- 👋 Hi, I’m MANU PRATAP SINGH
-- 👀 I’m interested in programmig and cyber security
-- 🌱 I’m currently learning BlockChain
-- 💞️ I’m looking to collaborate on Full stack development
-- 📫 How to reach me amps5297@gmail.com
+# 👋 Hi, I'm Manu Pratap Singh!  
 
-<!---
-manu9458/manu9458 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👨‍💻 About Me
+- 🔭 I’m a passionate **Full Stack Developer** and **Data Analyst** with 2.3 years of professional experience.
+- 🌱 Currently, I’m diving deep into **Blockchain Development** and **Cybersecurity**.
+- 👀 I’m intrigued by **programming**, **blockchain**, and **secure coding practices**.
+- 💡 I enjoy solving problems, building efficient web applications, and experimenting with new technologies.
+
+---
+
+### 🛠 Tech Stack
+- **Languages:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+- **Web Development:**  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+  ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+
+- **Databases:**  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- **Tools:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🚀 Projects
+- 🛠️ **[Blockchain-Based Voting System](https://github.com/manu9458/blockchain-voting-system)**  
+  A secure and decentralized voting platform built with Ethereum and React.
+
+- 🌟 **[3D Web Page with Three.js](https://github.com/manu9458/3d-webpage)**  
+  An interactive 3D website created using **Three.js** for JLG.
+
+- 🖥️ **[Engine Troubleshooting App](https://github.com/manu9458/engine-troubleshooting)**  
+  Developed for Rolls Royce Power Systems using **React.js** and **Material UI**.
+
+---
+
+### 🌐 Connect With Me
+- 📫 Email: [amps5297@gmail.com](mailto:amps5297@gmail.com)  
+- 💼 LinkedIn: [Manu Pratap Singh](https://www.linkedin.com/in/manu9458/)  
+- 📁 Portfolio: [Manu’s Portfolio](https://manu9458.github.io/)
+
+---
+
+### 📊 GitHub Stats
+![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manu9458&show_icons=true&theme=radical)
+
+---
+
+### 🏆 Badges & Certifications
+- 🏅 Blockchain Basics by [Platform/Organization]
+- 🏅 Full Stack Development Certification by [Platform/Organization]
+
+---
+
+### 💬 Let’s Collaborate!
+If you have an exciting idea or project, feel free to reach out to me. I'm always open to new opportunities to create and innovate!
