@@ -32,27 +32,10 @@
 
 ---
 
-### 🚀 Projects
-- 🛠️ **[Blockchain-Based Voting System](https://github.com/manu9458/blockchain-voting-system)**  
-  A secure and decentralized voting platform built with Ethereum and React.
-
-- 🌟 **[3D Web Page with Three.js](https://github.com/manu9458/3d-webpage)**  
-  An interactive 3D website created using **Three.js** for JLG.
-
-- 🖥️ **[Engine Troubleshooting App](https://github.com/manu9458/engine-troubleshooting)**  
-  Developed for Rolls Royce Power Systems using **React.js** and **Material UI**.
-
----
-
 ### 🌐 Connect With Me
 - 📫 Email: [amps5297@gmail.com](mailto:amps5297@gmail.com)  
 - 💼 LinkedIn: [Manu Pratap Singh](https://www.linkedin.com/in/manu9458/)  
 - 📁 Portfolio: [Manu’s Portfolio](https://manu9458.github.io/)
-
----
-
-### 📊 GitHub Stats
-![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manu9458&show_icons=true&theme=radical)
 
 ---
 
