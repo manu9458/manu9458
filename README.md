@@ -39,11 +39,6 @@
 
 ---
 
-### 🏆 Badges & Certifications
-- 🏅 Blockchain Basics by [Platform/Organization]
-- 🏅 Full Stack Development Certification by [Platform/Organization]
-
----
 
 ### 💬 Let’s Collaborate!
 If you have an exciting idea or project, feel free to reach out to me. I'm always open to new opportunities to create and innovate!
