@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Manu Pratap Singh!  
 
 ### 👨‍💻 About Me
-- 🔭 I’m a passionate **Full Stack Developer** and **Data Analyst** with 2.3 years of professional experience.
+- 🔭 I’m a passionate **Full Stack Developer** and **Data Analyst** with 2.6 years of professional experience.
 - 🌱 Currently, I’m diving deep into **Blockchain Development** and **Cybersecurity**.
 - 👀 I’m intrigued by **programming**, **blockchain**, and **secure coding practices**.
 - 💡 I enjoy solving problems, building efficient web applications, and experimenting with new technologies.
