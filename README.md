@@ -34,7 +34,7 @@
 
 ### 🌐 Connect With Me
 - 📫 Email: [amps5297@gmail.com](mailto:amps5297@gmail.com)  
-- 💼 LinkedIn: [Manu Pratap Singh](https://www.linkedin.com/in/manu9458/)  
+- 💼 LinkedIn: [Manu Pratap Singh](www.linkedin.com/in/manupratapsingh)  
 - 📁 Portfolio: [Manu’s Portfolio](https://manupratapsingh9458.netlify.app/)
 
 ---
