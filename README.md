@@ -41,7 +41,7 @@ Here’s a breakdown of my coding languages based on my GitHub repositories:
 ### 🎖 Certifications
 - C++ STL by E-BOX
 - Java, Python By Hackerrank
-- 
+- ReCogNurize Learning Paladins Certificate By Cognizent
 -----------------------
 
 ### 🏅 Honors and Awards
