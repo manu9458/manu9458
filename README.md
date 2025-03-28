@@ -39,12 +39,13 @@ Here’s a breakdown of my coding languages based on my GitHub repositories:
 -----------------------
 
 ### 🎖 Certifications
-- C++, Java, Python
+- C++ STL by E-BOX
+- Java, Python By Hackerrank
+- 
 -----------------------
 
---------------------
 ### 🏅 Honors and Awards
-- *Rising Star Award by LTTS CEO* (Dec 2024)
+- *Rising Star Award by LTTS CEO* (Feb 2025)
 --------------------
 
 ### 🌐 Connect With Me
