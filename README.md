@@ -36,8 +36,6 @@ Here’s a breakdown of my coding languages based on my GitHub repositories:
 
 ![Manu's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=manu9458&layout=compact&theme=radical)
 
-*Automatically generated from my public GitHub repositories.*
-
 --
 ### 🌐 Connect With Me
 - 📫 Email: [amps5297@gmail.com](mailto:amps5297@gmail.com)  
