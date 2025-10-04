@@ -50,8 +50,7 @@ Here’s a breakdown of my coding languages based on my GitHub repositories:
 
 ### 🌐 Connect With Me
 - 📫 Email: [amps5297@gmail.com](mailto:amps5297@gmail.com)  
-- 💼 LinkedIn: [Manu Pratap Singh](https://www.linkedin.com/in/manupratapsingh)  
-- 📁 Portfolio: [Manu’s Portfolio](https://manupratapsingh9458.netlify.app/)
+- 💼 LinkedIn: [Manu Pratap Singh](https://www.linkedin.com/in/manupratapsingh) 
 
 ---
 
