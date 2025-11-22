@@ -33,6 +33,9 @@ Chat with PDFs/Word files using embeddings, LangChain, and vector databases.
 🔹 **AI Meal Planner + Food Donation System**  
 React-based app with AI meal suggestions, donor features, and Bitcoin rewards.
 
+🔹 **Smart Doctor Assistant (RAG Project)**  
+Built a production-grade Smart Doctor Assistant using Streamlit, LangChain, Gemini 2.5, and ChromaDB, enabling PDF-based medical knowledge retrieval, symptom analysis, structured LLM reasoning, and a modular RAG pipeline for accurate, real-time medical insights.
+
 ---
 
 ### 🛠 Tech Stack  
