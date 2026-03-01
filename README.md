@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Manu Pratap Singh!  
 
 ### 👨‍💻 About Me  
-- 🔭 I’m a passionate **Data Scientist & AI Developer** with **3.3 years of experience** in ML, Deep Learning, and Full-Stack Development.  
-- 🤖 Currently exploring **Agentic AI**, **RAG-based systems**, and **Generative AI applications**.  
+- 🔭 I’m a passionate **Data Scientist & AI Developer** with **4 years of experience**.  
+- 🤖 Currently exploring **Agentic AI**.  
 - 💡 I love solving real-world problems with AI, building scalable web apps, and turning data into insights.  
 - 🧠 Strong interests in **predictive analytics**, **secure coding practices**, and **AI-powered automation**.
 
