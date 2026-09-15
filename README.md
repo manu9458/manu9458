@@ -10,7 +10,6 @@
 
 ### 🚀 Machine Learning | Deep Learning | Data Science  
 - ✅ **ML Techniques:** Regression, Classification, Clustering, Time-Series Forecasting, Anomaly Detection  
-- ✅ **Deep Learning:** CNNs, RNNs, LSTMs, Transfer Learning (TensorFlow, PyTorch)  
 - ✅ **Data Science Stack:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Power BI  
 - ✅ **MLOps & Deployment:** Azure Databricks, Docker, CI/CD Pipelines  
 
