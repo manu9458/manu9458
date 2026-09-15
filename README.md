@@ -12,8 +12,7 @@
 - ✅ **ML Techniques:** Regression, Classification, Clustering, Time-Series Forecasting, Anomaly Detection  
 - ✅ **Deep Learning:** CNNs, RNNs, LSTMs, Transfer Learning (TensorFlow, PyTorch)  
 - ✅ **Data Science Stack:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Power BI  
-- ✅ **MLOps & Deployment:** FastAPI, Flask, Azure Databricks, Docker, CI/CD Pipelines  
-- ✅ **GenAI & RAG:** LangChain, Llama2, Gemini API, Vector Databases (Chroma, Pinecone)
+- ✅ **MLOps & Deployment:** Azure Databricks, Docker, CI/CD Pipelines  
 
 ---
 
